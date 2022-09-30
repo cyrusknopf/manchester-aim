@@ -3,10 +3,11 @@ def printState():
 	print("Yellow Light is "+ str(yellowLight))
 	print("Green Light is "+ str(greenLight))
 
-redLight = 1
-yellowLight = 0
-greenLight = 0
+redLight = True
+yellowLight = False
+greenLight = False
 printState()
 
 print(3+5)
 print("3"+"5")
+
