@@ -1,3 +1,11 @@
-# COMP16321-Labs
+# Manchester Aim
+## An aim trainer built with tkinter and Python
 
-This is the repository that you submit your labs to.
+![game demonstration](https://github.com/cyrusknopf/manchester-aim/blob/master/aimlab.gif)
+
+### Key Features
+
+- Customise game time
+- Leaderboards
+- Save and quit at any time
+- Resume a game with exact gamestate you saved on
